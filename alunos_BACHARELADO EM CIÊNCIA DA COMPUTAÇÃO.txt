@@ -1,0 +1,9 @@
+Estudantes cadastrados - BACHARELADO EM CIÊNCIA DA COMPUTAÇÃO 
+1. DAYANNE MARIA DA SILVA | 12345678910 | 18 anos | F 
+2. ALEX ANDREW MENDEIROS DA SILVA | 12345678910 | 20 anos | M 
+3. JOANA BEATRIZ DOS SANTOS | 12345678910 | 22 anos | F 
+4. WILSON ADOLPHO DA SILVA JÚNIOR | 12345678910 | 20 anos | M 
+O número total de alunos matriculados neste curso é: 4
+A média de idade dos alunos é de 19.714286 anos
+Total de alunos por gênero: 
+Masculino: 5 | Feminino: 2

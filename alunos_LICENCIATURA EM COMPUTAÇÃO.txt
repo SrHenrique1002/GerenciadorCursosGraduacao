@@ -1,0 +1,8 @@
+Estudantes cadastrados - LICENCIATURA EM COMPUTAÇÃO 
+1. LUCAS HENRIQUE DE LIMA SILVA | 12345678910 | 20 anos | M 
+2. CAUÃ DA CUNHA LIRA | 12345678910 | 19 anos | M 
+3. SÉRGIO RICARDO FERREIRA DA SILVA FILHO | 12345678910 | 19 anos | M 
+O número total de alunos matriculados neste curso é: 3
+A média de idade dos alunos é de 19.333333 anos
+Total de alunos por gênero: 
+Masculino: 3 | Feminino: 0
